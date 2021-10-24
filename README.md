@@ -37,24 +37,6 @@ $ git clone https://github.com/augustinho2/C214-Seminario.git
 
 ## 📁 Estrutura de arquivos
 
-
-
-## 🛠 Tecnologias
-
-### Ferramentas e Serviços
-- [Git](https://git-scm.com/)
-- [Selenium Web Driver](https://www.selenium.dev/documentation/webdriver/)
-
-
-
-### Dependências 
-
-
-### Dependências de desenvolvimento
--[Maven](https://maven.apache.org)
-
-
-
 ```
 C214-Seminario
 ├─ .factorypath
@@ -227,3 +209,19 @@ C214-Seminario
             └─ test
 
 ```
+
+
+
+## 🛠 Tecnologias
+
+### Ferramentas e Serviços
+- [Git](https://git-scm.com/)
+- [Selenium Web Driver](https://www.selenium.dev/documentation/webdriver/)
+
+
+
+### Dependências 
+
+
+### Dependências de desenvolvimento
+-[Maven](https://maven.apache.org)
