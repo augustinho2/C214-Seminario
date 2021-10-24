@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+<<<<<<< HEAD
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+      </profile>
+    </annotationProcessing>
+=======
     <bytecodeTargetLevel>
       <module name="demo" target="8" />
     </bytecodeTargetLevel>
+>>>>>>> 3bf23c6b260f3de30c9b3181d758fc9d34ecd4b0
   </component>
 </project>
