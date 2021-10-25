@@ -10,7 +10,7 @@
 
 Este é o nosso seminário de Engenharia de software (C214).  
 
-Versão em Desenvolvimento <br/>
+<br/>
 
 ---
 
@@ -216,12 +216,10 @@ C214-Seminario
 
 ### Ferramentas e Serviços
 - [Git](https://git-scm.com/)
-- [Selenium Web Driver](https://www.selenium.dev/documentation/webdriver/)
-
-
-
-### Dependências 
 
 
 ### Dependências de desenvolvimento
--[Maven](https://maven.apache.org)
+- [Maven](https://maven.apache.org)
+- [Selenium Web Driver](https://www.selenium.dev/documentation/webdriver/)
+- [ChromeDriver](https://chromedriver.chromium.org/downloads)
+- [MsDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
